@@ -10,3 +10,9 @@
     left: 4%;
     margin-top: 36px;
 }
+
+@media  (max-width: 768px) {
+    .No-Todos img{
+        width: 200px;
+    }
+}
